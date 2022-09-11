@@ -9,5 +9,7 @@ Kubernetes is installed and running
 ### Steps
 
 kubectl apply -f ./helloappdeploy.yaml
+
 kubectl create -f https://bit.ly/k4k8s
+
 kubectl apply -f kong_proxy.yaml
